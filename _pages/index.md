@@ -1,33 +1,49 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
+***
+[[Rule 1 - General]]
 
-# Welcome! 🌱
+[[Rule 2 - Responsibility]]
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+[[Rule 3 - Definitions]]
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+[[Rule 4 - visibility]]
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+[[Rule 5 - Look Out]]
 
-<strong>Recently updated notes</strong>
+[[Rule 6 - Safe Speed]]
 
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+[[Rule 7 - Risk of collision]]
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+[[Rule 8- Action to Avoid Collision]]
+
+[[Rule 9 - Narrow Channels]]
+
+[[Rule 10 - Traffic Separation Schemes]]
+
+[[Rule 11]]
+
+[[Rule 12 - Sailing Vessels]]
+
+[[Rule 13 - Overtaking]]
+
+[[Rule 14 - Head on Situation]]
+
+[[Rule 15 - Crossing Situation]]
+
+[[Rule 16 - Action by the give way vessel]]
+
+[[Rule 17 - Action by Stand on Vessel]]
+
+[[Rule 18 - Responsibilities Between Vessels]]
+
+[[Rule 19 - Conduct of vessels in restricted visibility - Missing info]]
+
+[[Rule 20]]
+
+[[Rule 21 - Definitions]]
+
+[[Rule 22 - Visibility of lights]]
+
+[[Rule 23 - Power Driven Vessels Underway]]
+
+[[Rule 24 - Towing and pushing - inland vs int]]
+
