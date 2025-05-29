@@ -495,11 +495,11 @@ Green Christmas tree of Death - 3 Green in a T
 
 Typically the Masthead light is the superior light
 
-##### Rule 28 - Vessels Constrained by her draft
+##### [[Rule 28 - Vessels Constrained by her draft]]
 ###### Vessel constrained by her Draft - International only
 No CBD inland
 
-##### Rule 29 - Pilot Vessels
+##### [[Rule 29 - Pilot Vessels]]
 
 ###### Vessel engaged in Pilotage duties
 No masthead light
@@ -508,7 +508,7 @@ Carries pilots to and from ship as well.
 
 Lights for pilot boat are an additional identifier that can be shown
 
-##### Rule 30 - Anchored vessels 
+##### [[Rule 30 - Anchored vessels]] 
 Less than 50m - all around light
 More than 50m - aft and forward all around white lights
 
@@ -519,21 +519,22 @@ More than 50m - aft and forward all around white lights
 
 Add more here from slides
 
-##### Rule 31 - Seaplanes
+##### [[Rule 31 - Seaplanes]]
 
-##### Rule 32 - Definitions
-Whishtle
-short blast 
-Prolonged blast
+##### [[Rule 32 - Definitions]]
+Whistle - 
+short blast - 
+Prolonged blast - 
 
-##### Rule 33 - Equipment for sound signals
+Missed these
+##### [[Rule 33 - Equipment for sound signals]]
 <12m - any type
 12-100m - Whistle and bell
 _>_ 100 - whistle, bell, and gong
 
 Bell no longer required on vessels >= 12 but < 20
 
-##### Rule 34 - Maneuvering & Warning Signals
+##### [[Rule 34 - Maneuvering & Warning Signals]]
 ###### International
 "I AM"
 Signals my be supplemented by light signals, white light visible at 5 miles
@@ -558,7 +559,7 @@ come to an agreement when in sight of one another
 allow vessels to reach agreement with one another in a head on crossing, or overtaking situation using VHF
 If agreement is not reached, whistle signals shall be exchanged
 
-##### Rule 35 - Sound Signals in Restricted Visibility
+##### [[Rule 35 - Sound Signals in Restricted Visibility]]
 Power driven vessel MAKING WAY - intervals not more than 2 minutes
 
 Power driven vessel STOPPED and MAKING NO WAY - intervals no more than 2 minutes
@@ -576,9 +577,11 @@ Vessel AGROUND -> 3 strokes - 5 rapid ringing - 3 strokes - 5 sec gong
 
 Pilot vessel MAY sound 4 SHORT
 
-##### Rule 36 - Signals to Attract Attention
+##### [[Rule 36 - Signals to Attract Attention]]
 Attract attention of another vessel MAY make light or sound signal that CANNOT BE MISTAKEN FOR ANOTHER SIGNAL. Beam searchlight NOT TO embarass any vessel
 
 Strobe lights are to be avoided
 
-##### Rule 37 Distress Signals
+##### [[Rule 37 Distress Signals]]
+
+See Spindrift
