@@ -5,6 +5,8 @@ id: home
 permalink: /
 ---
 ***
+[[Rules of the Nautical Road]]
+
 [[Rule 1 - General]]
 
 [[Rule 2 - Responsibility]]
@@ -53,3 +55,28 @@ permalink: /
 
 [[Rule 24 - Towing and pushing - inland vs int]]
 
+[[Rule 25 - Sailing Vessels Underway and Vessels Under Oars]]
+
+[[Rule 26 - Fishing Vessels]]
+
+[[Rule 27 - Vessels Not Under Command]]
+
+[[Rule 28 - Vessels Constrained by her draft]]
+
+[[Rule 29 - Pilot Vessels]]
+
+[[Rule 30 - Anchored vessels]]
+
+[[Rule 31 - Seaplanes]]
+
+[[Rule 32 - Definitions]]
+
+[[Rule 33 - Equipment for sound signals]]
+
+[[Rule 34 - Maneuvering & Warning Signals]]
+
+[[Rule 35 - Sound Signals in Restricted Visibility]]
+
+[[Rule 36 - Signals to Attract Attention]]
+
+[[Rule 37 Distress Signals]]
